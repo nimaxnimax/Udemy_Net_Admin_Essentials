@@ -2,8 +2,6 @@ Network Components & Host Roles
 
 ![Alt text](image.png)
 
-![Alt text](image-1.png)
-
 Network Components and Host Roles:
 
 1. **Hosts or End Devices:**
