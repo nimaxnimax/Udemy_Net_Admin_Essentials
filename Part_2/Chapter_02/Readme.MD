@@ -1,4 +1,4 @@
-Network Components & Peer-to-Peer
+Network Components and Peer-to-Peer
 
 ![Alt text](image.png)
 

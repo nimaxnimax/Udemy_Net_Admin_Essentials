@@ -1,4 +1,4 @@
-Network Components & Network Media
+Network Components and Network Media
 
 ![Alt text](image.png)
 

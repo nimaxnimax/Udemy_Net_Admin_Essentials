@@ -1,4 +1,4 @@
-Network Components & End Devices
+Network Components and End Devices
 
 ![Alt text](image.png)
 

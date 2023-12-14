@@ -1,4 +1,4 @@
-Network Components & Host Roles
+Network Components and Host Roles
 
 ![Alt text](image.png)
 

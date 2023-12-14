@@ -1,4 +1,4 @@
-Network Components & Intermediary Network Devices
+Network Components and Intermediary Network Devices
 
 ![Alt text](image.png)
 
