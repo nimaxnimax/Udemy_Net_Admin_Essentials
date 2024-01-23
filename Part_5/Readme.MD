@@ -16,7 +16,8 @@ Topics:
 - Message Encoding
 - Message Formatting and Encapsulation
 - Message Size
-
+- Message Timing
+- Message Delivery Options
 
 
 **********
@@ -103,7 +104,19 @@ Encoding between hosts must be in an appropriate format for the medium.
 
 **********
 
+Message Timing
+
+Message timing includes the following: 
+- Flow Control – Manages the rate of data transmission and defines how much information can be sent and the speed at which it can be delivered.
+- Response Timeout – Manages how long a device waits when it does not hear a reply from the destination.
+- Access method - Determines when someone can send a message. There may be various rules governing issues like “collisions”. This is when more than one device sends traffic at the same time and the messages become corrupt. Some protocols are proactive and attempt to prevent collisions; other protocols are reactive and establish a recovery method after the collision occurs.
+
+
 **********
+
+Message Delivery Options
+
+
 
 **********
 
