@@ -102,6 +102,8 @@ Encoding between hosts must be in an appropriate format for the medium.
 
 **********
 
+![Alt text](image-4.png)
+
 Message Timing
 
 Message timing includes the following: 
