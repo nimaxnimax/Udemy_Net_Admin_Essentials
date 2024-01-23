@@ -125,8 +125,3 @@ Message delivery may one of the following methods:
 
 Note: Broadcasts are used in IPv4 networks, but are not an option for IPv6. Later we will also see “Anycast” as an additional delivery option for IPv6.
 
-
-**********
-
-**********
-
