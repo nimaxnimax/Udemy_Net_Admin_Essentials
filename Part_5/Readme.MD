@@ -92,8 +92,6 @@ Message Formatting and Encapsulation
 
 **********
 
-![Alt text](image-4.png)
-
 Message Size
 
 Encoding between hosts must be in an appropriate format for the medium.
