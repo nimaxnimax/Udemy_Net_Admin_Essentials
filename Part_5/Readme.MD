@@ -114,8 +114,16 @@ Message timing includes the following:
 
 **********
 
+![Alt text](image-5.png)
+
 Message Delivery Options
 
+Message delivery may one of the following methods: 
+- Unicast – one to one communication
+- Multicast – one to many, typically not all
+- Broadcast – one to all
+
+Note: Broadcasts are used in IPv4 networks, but are not an option for IPv6. Later we will also see “Anycast” as an additional delivery option for IPv6.
 
 
 **********
