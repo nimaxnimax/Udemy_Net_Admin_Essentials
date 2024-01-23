@@ -112,7 +112,7 @@ Message timing includes the following:
 
 **********
 
-![Alt text](image-5.png)
+![Alt text](image-4.png)
 
 Message Delivery Options
 
