@@ -11,6 +11,12 @@ Network Administration + IT Computer Network Fundamentals + Theory + Network Eng
 Topics:
 - Communications Fundamentals
 - Communications Protocols
+- Rule Establishment
+- Network Protocol Requirements
+- Message Encoding
+- Message Formatting and Encapsulation
+- Message Size
+
 
 
 **********
@@ -41,6 +47,65 @@ Communications Protocols
 - Protocols are the rules that communications will follow.
 - These rules will vary depending on the protocol.
 
+
+**********
+
+Rule Establishment 
+
+Protocols must account for the following requirements:
+- An identified sender and receiver
+- Common language and grammar
+- Speed and timing of delivery
+- Confirmation or acknowledgment requirements
+
+
+**********
+
+Network Protocol Requirements
+
+Common computer protocols must be in agreement and include the following requirements: 
+- Message encoding
+- Message formatting and encapsulation
+- Message size
+- Message timing
+- Message delivery options
+
+
+**********
+
+![Alt text](image-2.png)
+
+Message Encoding
+- Encoding is the process of converting information into another acceptable form for transmission. 
+- Decoding reverses this process to interpret the information. 
+
+
+**********
+
+![Alt text](image-3.png)
+
+Message Formatting and Encapsulation
+- When a message is sent, it must use a specific format or structure. 
+- Message formats depend on the type of message and the channel that is used to deliver the message. 
+
+
+**********
+
+![Alt text](image-4.png)
+
+Message Size
+
+Encoding between hosts must be in an appropriate format for the medium.
+- Messages sent across the network are converted to bits
+- The bits are encoded into a pattern of light, sound, or electrical impulses.
+- The destination host must decode the signals to interpret the message.
+
+
+**********
+
+**********
+
+**********
 
 **********
 
