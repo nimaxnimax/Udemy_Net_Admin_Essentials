@@ -15,7 +15,7 @@ Topics:
 - Evolution of Protocol Suites
 - TCP/IP Protocol Example
 - TCP/IP Protocol Suite
-
+- TCP/IP Communication Process
 
 **********
 
@@ -133,12 +133,13 @@ A standards-based protocol suite that is endorsed by the networking industry and
 
 **********
 
+![alt text](image-9.png)
 
-**********
+TCP/IP Communication Process
 
+A web server encapsulating and sending a web page to a client.
 
-**********
-
+A client de-encapsulating the web page for the web browser
 
 **********
 
