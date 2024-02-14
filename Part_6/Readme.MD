@@ -5,13 +5,10 @@ Udemy Course >> Network Administration + Networking Essentials Part 6
 
 Network Administration + IT Computer Network Fundamentals + Theory + Network Engineering + Networking Essentials Part 6
 
-
 **********
 
 Topics:
 - XXX
-
-
 
 **********
 
@@ -19,10 +16,7 @@ Tips/Tricks/Notes/Commands URL Link: https://github.com/nimaxnimax/Udemy_Net_Adm
 
 Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
 
-
 **********
-
-![alt text](image.png)
 
 Network Protocol
 
@@ -44,19 +38,13 @@ Format
 
 Rules
  
-
 **********
-
-![alt text](image-1.png)
 
 Network Protocol Functions
 
 Devices use agreed-upon protocols to communicate.
 
 Protocols may have may have one or functions.
-
-![alt text](image-2.png)
-
 
 **********
 
