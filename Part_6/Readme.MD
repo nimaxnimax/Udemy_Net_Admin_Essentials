@@ -55,7 +55,7 @@ Network Protocol Functions
 
 Devices use agreed-upon protocols to communicate.
 
-Protocols may have may have one or functions.
+Protocols may have one or more functions.
 
 ![alt text](image-2.png)
 
