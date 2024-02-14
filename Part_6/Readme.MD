@@ -8,7 +8,9 @@ Network Administration + IT Computer Network Fundamentals + Theory + Network Eng
 **********
 
 Topics:
-- XXX
+- Network Protocol
+- Network Protocol Functions
+
 
 **********
 
@@ -17,6 +19,8 @@ Tips/Tricks/Notes/Commands URL Link: https://github.com/nimaxnimax/Udemy_Net_Adm
 Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
 
 **********
+
+![alt text](image.png)
 
 Network Protocol
 
@@ -40,11 +44,15 @@ Rules
  
 **********
 
+![alt text](image-1.png)
+
 Network Protocol Functions
 
 Devices use agreed-upon protocols to communicate.
 
 Protocols may have may have one or functions.
+
+![alt text](image-2.png)
 
 **********
 
