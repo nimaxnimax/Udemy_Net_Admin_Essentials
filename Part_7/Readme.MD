@@ -1,4 +1,6 @@
 
+![alt text](image.jpg)
+
 Udemy Course >> Network Administration + Networking Essentials Part 7
 
 Network Administration + IT Computer Network Fundamentals + Theory + Network Engineering + Networking Essentials Part 7
