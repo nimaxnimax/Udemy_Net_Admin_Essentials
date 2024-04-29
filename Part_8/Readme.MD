@@ -125,3 +125,12 @@ Physical Layer Characteristics >> Signaling
 - The method of signaling will vary based on the type of medium being used.
 
 
+![alt text](image-4.png)
+
+Physical Layer Characteristics >> Bandwidth
+
+- Bandwidth is the capacity at which a medium can carry data.
+- Digital bandwidth measures the amount of data that can flow from one place to another in a given amount of time; how many bits can be transmitted in a second.
+- Physical media properties, current technologies, and the laws of physics play a role in determining available bandwidth.
+
+
