@@ -134,3 +134,40 @@ Physical Layer Characteristics >> Bandwidth
 - Physical media properties, current technologies, and the laws of physics play a role in determining available bandwidth.
 
 
+Physical Layer Characteristics >> Bandwidth Terminology
+
+- Latency >> Amount of time, including delays, for data to travel from one given point to another
+- Throughput >> The measure of the transfer of bits across the media over a given period of time
+- Goodput >> The measure of usable data transferred over a given period of time - Goodput = Throughput - traffic overhead
+
+
+More About Phyisical Layer
+
+- Before any network communications can occur, a physical connection to a local network, either wired or wireless, must be established. 
+- The physical layer consists of electronic circuitry, media, and connectors developed by engineers. 
+- The physical layer standards address three functional areas: physical components, encoding, and signaling. 
+- Three types of copper cabling are: UTP, STP, and coaxial cable (coax). 
+- UTP cabling conforms to the standards established jointly by the TIA/EIA. The electrical characteristics of copper cabling are defined by the Institute of Electrical and Electronics Engineers (IEEE). 
+- The main cable types that are obtained by using specific wiring conventions are Ethernet Straight-through and Ethernet Crossover. 
+- Optical fiber cable transmits data over longer distances and at higher bandwidths than any other networking media. 
+- There are four types of fiber-optic connectors: ST, SC, LC, and duplex multimode LC. 
+- Fiber-optic patch cords include SC-SC multimode, LC-LC single-mode, ST-LC multimode, and SC-ST single-mode. 
+- Wireless media carry electromagnetic signals that represent the binary digits of data communications using radio or microwave frequencies. Wireless does have some limitations, including coverage area, interference, security, and the problems that occur with any shared medium. 
+- Wireless standards include the following: Wi-Fi (IEEE 802.11), Bluetooth (IEEE 802.15), WiMAX (IEEE 802.16), and Zigbee (IEEE 802.15.4). 
+- Wireless LAN (WLAN) requires a wireless AP and wireless NIC adapters.
+
+
+Physical Layer Testing
+
+Physical layer testing can indirectly relate to aspects like latency and delay, which are often measured using commands like "ping." While the Physical Layer primarily deals with the transmission of data over the network medium, issues at this layer can impact higher-layer protocols and applications, leading to latency and delay.
+
+1. **Ping Command**: The "ping" command is commonly used to test the reachability of a host on an IP network. It sends ICMP echo request packets to the target host and waits for ICMP echo reply packets in response. The round-trip time taken for these packets to travel from the source to the destination and back is measured, providing an indication of network latency.
+
+2. **Physical Layer Impact**: Issues at the Physical Layer, such as cable faults, signal degradation, or network congestion, can affect the transmission of ICMP packets between the source and destination. For example, if there's excessive attenuation in the transmission medium or high levels of electromagnetic interference, it may cause packet loss or delay in packet delivery.
+
+3. **Latency and Delay**: Latency refers to the time it takes for a packet to travel from the source to the destination, while delay encompasses various factors contributing to the total time taken for packet transmission, including queuing delay, processing delay, and transmission delay.
+
+4. **Physical Layer Testing**: Physical layer testing involves assessing the performance and integrity of the underlying transmission medium and network infrastructure. While it may not directly measure latency and delay, it aims to identify issues that could impact these parameters. For instance, cable testers can detect faults in Ethernet cables, while spectrum analyzers can identify sources of interference affecting wireless networks.
+
+While physical layer testing focuses on verifying the functionality and quality of the network infrastructure, issues identified during testing can indirectly impact latency and delay experienced by higher-layer protocols and applications, including those measured using the "ping" command.
+
