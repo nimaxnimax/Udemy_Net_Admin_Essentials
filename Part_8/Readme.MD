@@ -141,7 +141,7 @@ Physical Layer Characteristics >> Bandwidth Terminology
 - Goodput >> The measure of usable data transferred over a given period of time - Goodput = Throughput - traffic overhead
 
 
-More About Phyisical Layer
+More About Physical Layer
 
 - Before any network communications can occur, a physical connection to a local network, either wired or wireless, must be established. 
 - The physical layer consists of electronic circuitry, media, and connectors developed by engineers. 
