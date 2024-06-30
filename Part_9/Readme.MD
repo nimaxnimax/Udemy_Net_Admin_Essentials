@@ -105,9 +105,13 @@ This course is ideal for aspiring network administrators, IT professionals, and 
 **Introduction to Network Administration & Networking Essentials**
 
 Did you know that effective network administration is crucial for the seamless operation of modern organizations? Understanding the Physical Layer (Layer 1) and Data Link Layer (Layer 2) of the OSI model is fundamental to this role. 
+
 The Physical Layer encompasses the hardware components and transmission methods that form the backbone of network communication, while the Data Link Layer ensures data is correctly formatted, transmitted, and received between nodes, maintaining network integrity and performance. 
+
 This course will dive deep into these layers, explaining their importance and equipping you with the knowledge and skills necessary to manage and optimize network infrastructures effectively. 
+
 Whether you're starting your journey in network administration or looking to enhance your technical expertise, mastering these concepts is essential for a successful career in the ever-evolving field of IT networking.
+
 
 
 ![alt text](Slide1.JPG)
