@@ -1,4 +1,5 @@
 
+
 ![alt text](image.jpg)
 
 Network Administration + Networking Essentials Part 9
@@ -10,6 +11,9 @@ Tips/Tricks/Notes/Commands URL Link: https://github.com/nimaxnimax/Udemy_Net_Adm
 Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
 
 Welcome to our course focusing on the Physical Layer, Data Link Layer, and Network Administration essentials. In this course, we delve into the fundamental layers of network communication: the Physical Layer, where data is transmitted as signals through mediums like copper cables and fiber optics, and the Data Link Layer, which ensures error-free transmission over these physical connections through protocols like Ethernet and Wi-Fi. Understanding these layers is crucial for network administrators who manage and troubleshoot networks, ensuring smooth operations and efficient data flow. Through practical learning and theoretical insights, students will gain proficiency in configuring network hardware, addressing issues related to connectivity and bandwidth, and implementing protocols that govern data exchange at these foundational layers. Whether you're entering the field or seeking to deepen your understanding, this course equips you with essential skills to build and maintain robust network infrastructures in today's digital landscape.
+
+
+********************
 
 
 **Course Description:**
